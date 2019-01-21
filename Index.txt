@@ -1,9 +1,9 @@
 ## Index of source code examples:
 
-\Binary Data
-\Colored QR Code
-\General Example
-\GS1 QR Code
-\QR Code With Image
-\Unicode Value
-\vCard QR Code
+\convert vCard to QR Code barcode
+\create Colored QR Code barcode
+\encode Binary Data to qr code
+\generate GS1 QR Code
+\generate QR Code With Image inside
+\generate qr code with Unicode Value
+\generate simple qr code
